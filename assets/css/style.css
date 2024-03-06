@@ -1,30 +1,34 @@
  /* added asterisk wildcard selector to override default browser styles*/
  * {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+ }
 
-/* General Styles */
-body {
-    min-height: 100vh;
+ /* General Styles */
+ body {
+     min-height: 100vh;
+     display: flex;
+     flex-direction: column;
+     /* Generic project styles */
+     color: #0e0f0c;
+ }
+
+ /*Header Content*/
+ header {
+     background-color: aqua;
+ }
+
+
+ /* Main content */
+ main {
+    /* Make main element take up any surplus space to push footer down */
+    flex: 1 0 auto;
+    /* Enable flex properties for child elements */
     display: flex;
-    flex-direction: column;
-    /* Generic project styles */
-    color: #3a3a3a;
 }
 
-/*Header Content*/
-header {
-background-color: aqua;
-}
-
-/*Main Content*/
-main {
-background-color: bisque;
-}
-
-/*Footer Content*/
-footer {
-background-color: rgb(152, 147, 147);
-}
+ /*Footer Content*/
+ footer {
+     background-color: rgb(152, 147, 147);
+ }
