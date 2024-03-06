@@ -22,6 +22,13 @@
 
  }
 
+ h1, h2, h3 {
+    font-family: 'Madimi One', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #252525;
+}
+
  /*Header Content*/
  header {
      background-color: aqua;
