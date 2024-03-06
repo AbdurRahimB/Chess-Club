@@ -1,7 +1,6 @@
 /*Imported google font*/
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@0;1&family=Madimi+One&display=swap')
-</style>
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@0;1&family=Madimi+One&display=swap');
+
  
  /* added asterisk wildcard selector to override default browser styles*/
  * {
@@ -19,10 +18,11 @@
      color: #0e0f0c;
      /*Font*/
      font-family: 'alumni sans inline one', sans-serif;
-
  }
 
- h1, h2, h3 {
+ h1, 
+ h2, 
+ h3 {
     font-family: 'Madimi One', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -30,9 +30,21 @@
 }
 
  /*Header Content*/
- header {
-     background-color: aqua;
- }
+ 
+header {
+    background-color: #ffffff;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 
  /* Main content */
  main {
