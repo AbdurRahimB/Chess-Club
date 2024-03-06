@@ -132,11 +132,17 @@ main {
     margin-top: 48px;
 }
 
-
-
 }
 
+/* Media query: desktop and larger (992px and up) */
 @media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-radius: 10px;
+        background-color: #6bc1b4;
+        color: aliceblue;
+        padding: 5px;
+        box-shadow: #7b7b7b 0px 2px 0px 0px; 
+    }
 
 }
 
