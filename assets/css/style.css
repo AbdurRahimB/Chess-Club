@@ -48,13 +48,13 @@ header a {
 }
 
 #menu {
-    font-size: 110%;
+    font-size: 200%;
     letter-spacing: 4px;
     list-style-type: none;
 }
 
 #menu>li {
-    margin-bottom: .5em;
+    margin-bottom: .1em;
 }
 
 /* Navbar styles with dropdown toggle */
@@ -86,7 +86,6 @@ nav {
     font-size: 2rem;
 }
 
-
 /* Main content */
 main {
     /* Make main element take up any surplus space to push footer down */
@@ -102,17 +101,46 @@ main {
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
+
 }
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
+
+/* Main content */
+main {
+    /* Push main content down to accommodate larger header */
+    margin-top: 48px;
+}
+
+
+
 }
 
 @media screen and (min-width: 992px) {
+
 }
 
 /*Footer Content*/
-/* Footer */
 #social-networks {
     text-align: center;
     padding: 20px 0;
