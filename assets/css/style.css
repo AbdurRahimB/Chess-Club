@@ -25,13 +25,13 @@ h3 {
     font-family: 'Madimi One', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #252525;
+    color: #00fc6d;
 }
 
 /*Header Content*/
 
 header {
-    background-color: #ffffff;
+    background-color: #230909;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
@@ -49,8 +49,9 @@ header a {
 
 #menu {
     font-size: 200%;
-    letter-spacing: 4px;
+    letter-spacing: 1px;
     list-style-type: none;
+    color: aliceblue;
 }
 
 #menu>li {
@@ -60,7 +61,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: #230909;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -71,6 +72,7 @@ nav {
 
 .nav-toggle-label {
     font-size: 2rem;
+    color: aliceblue;
 }
 
 /* Nav toggle */
@@ -111,6 +113,7 @@ main {
 
     .active {
         background-color: #6bc1b4;
+        border-style: inset;
     }
 }
 
@@ -140,16 +143,19 @@ main {
 /* Media query: desktop and larger (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
-        border-radius: 10px;
+       border-style: inset;
         background-color: #6bc1b4;
         color: aliceblue;
-        padding: 5px;
         box-shadow: #7b7b7b 0px 2px 0px 0px; 
     }
 
 }
 
 /*Footer Content*/
+#footer {
+background-color: #7b7b7b;
+}
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
