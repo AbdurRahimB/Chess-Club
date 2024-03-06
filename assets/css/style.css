@@ -1,35 +1,35 @@
 /*Imported google font*/
 @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@0;1&family=Madimi+One&display=swap');
 
- /* added asterisk wildcard selector to override default browser styles*/
- * {
-     padding: 0;
-     margin: 0;
-     box-sizing: border-box;
- }
+/* added asterisk wildcard selector to override default browser styles*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
 
- /* General Styles */
- body {
-     min-height: 100vh;
-     display: flex;
-     flex-direction: column;
-     /* Generic project styles */
-     color: #0e0f0c;
-     /*Font*/
-     font-family: 'alumni sans inline one', sans-serif;
- }
+/* General Styles */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    /* Generic project styles */
+    color: #0e0f0c;
+    /*Font*/
+    font-family: 'alumni sans inline one', sans-serif;
+}
 
- h1, 
- h2, 
- h3 {
+h1,
+h2,
+h3 {
     font-family: 'Madimi One', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #252525;
 }
 
- /*Header Content*/
- 
+/*Header Content*/
+
 header {
     background-color: #ffffff;
     padding: 0 1rem;
@@ -38,8 +38,8 @@ header {
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
-justify-content: space-between;
-align-items: baseline;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -66,6 +66,7 @@ nav {
     padding: 0 1rem;
     box-shadow: 0 2px 2px #3a3a3a;
     display: none;
+    top: 100%;
 }
 
 .nav-toggle-label {
@@ -77,15 +78,27 @@ nav {
     display: block;
 }
 
- /* Main content */
- main {
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: 2rem;
+}
+
+
+/* Main content */
+main {
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     /* Enable flex properties for child elements */
     display: flex;
+    /* Add margin at the top to prevent content from being covered by the header */
+    margin-top: 42px;
+
 }
 
- /*Footer Content*/
- footer {
-     background-color: rgb(152, 147, 147);
- }
+/*Footer Content*/
+footer {
+    background-color: rgb(152, 147, 147);
+}
