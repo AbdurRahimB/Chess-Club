@@ -19,13 +19,24 @@ body {
     font-family: 'Madimi One', sans-serif;
 }
 
-h1,
-h2,
-h3 {
+h1 {
     font-family: 'Madimi One', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #00fc6d;
+}
+
+h2 {
+    font-family: 'Madimi One', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #fcfcfc;
+}
+
+h3 {
+    font-family: 'Madimi One', sans-serif;
+    letter-spacing: 1px;
+    color: #fcfcfc;
 }
 
 /*Header Content*/
@@ -99,6 +110,13 @@ main {
 
 }
 
+#cover-image {
+    height: 600px;
+    width: 100%;
+    background: url("../images/chess-cover.webp") no-repeat center center/cover;
+}
+
+#cover-text {}
 /*Media Queries*/
 
 /* Media query: large or landscape phones (576px and up) */
