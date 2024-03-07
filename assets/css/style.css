@@ -121,8 +121,8 @@ main {
     background-color: rgba(255, 255, 255, 0.622);
     font-size: 130%;
     position: absolute;
-    bottom: 30px;
-    width: 80%;
+    bottom: 290px;
+    width: 50%;
     min-height: 200px;
     padding-top: 10px;
     padding-left: 10px;
@@ -172,11 +172,13 @@ main {
 
 /* Cover-text */
 #cover-text {
-    width: 500px;
-    right: 50px;
+    width: 330px;
     padding-top: 10px;
     padding-bottom: 10px;
     justify-content: center;
+    top: 250px;
+    height: 150px;
+    left: 35px;
 }
 
 
@@ -190,7 +192,10 @@ main {
         color: aliceblue;
         box-shadow: #7b7b7b 0px 2px 0px 0px; 
     }
-
+/* Cover-text */
+#cover-text {
+    width: 550px;
+}
 }
 
 /*Footer Content*/
