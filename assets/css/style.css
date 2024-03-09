@@ -176,13 +176,48 @@ padding: 20px;
 }
 
 /*Form Style*/
-.page-heading {
+
+.page-heading, .form-body {
     text-align: center;
     display: flex;
     justify-content: center;
 }
 
+.form-container {
+    border-radius: 15px;
+    background-color: #dfe7d0;
+    padding: 20px;
+    text-align: left;
+}
 
+input, select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+}
+
+.submit-button {
+    background-color: #0fb315;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+
+
+
+.text-input:hover {
+    border-color: #119400;
+}
+
+.submit-button:hover {
+    background-color: #fafafa;
+    color: #079130;
+}
 
 /*Media Queries*/
 
