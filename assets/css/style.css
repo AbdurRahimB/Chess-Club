@@ -139,8 +139,8 @@ main {
     display: flex;
     justify-content: center; 
     width: 80%;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     padding: 20px;
     border-radius: 15px;
     }
@@ -149,7 +149,7 @@ main {
     width: 80%;
     display: flex;
     background: #f7eaea;
-    padding: 20px;
+    
     border-radius: 15px;
 }
 
@@ -171,7 +171,7 @@ padding: 20px;
 
 
 .personality-build {
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     align-content: center;
 }
 
