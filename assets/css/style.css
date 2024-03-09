@@ -175,6 +175,14 @@ padding: 20px;
     align-content: center;
 }
 
+/*Form Style*/
+.page-heading {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+
 
 /*Media Queries*/
 
