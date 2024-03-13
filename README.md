@@ -38,7 +38,10 @@ This wesite is intended to the Chess loving people who wants to learn how to pla
 
 ## Wireframe
   + Mobile 
-![index-Mob!](/workspace/chess-club/assets/images/wireframe/index-Mob.png)
+
+|![index-Mob!](assets/images/wireframe/index-Mob.png)|![courses!](assets/images/wireframe/Courses.png)|![contact-us!](assets/images/wireframe/contact-us.png)|
+
+
 
   + Desktop
 
