@@ -34,7 +34,7 @@ h2 {
     font-family: 'Poppins', sans-serif;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #fcfcfc;
+    color: #000000;
 }
 
 h3 {
@@ -68,10 +68,11 @@ header a {
 }
 
 #menu {
-    font-size: 200%;
+    font-size: 150%;
     letter-spacing: 1px;
     list-style-type: none;
-    color: aliceblue;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
 }
 
 #menu>li {
@@ -267,8 +268,8 @@ textarea {
     }
 
     .active {
-        background-color: #6bc1b4;
-        border-style: inset;
+        background-color: #833e29;
+        border-style: double;
     }
 }
 
