@@ -46,19 +46,21 @@ This wesite is intended to the Chess loving people who wants to learn how to pla
   + Desktop
 
 ## Responsiveness
-  + Mobile
-|![index-mob1!](assets/images/screenshots/index-mob1.png)| ![courses-mob!](assets/images/screenshots/courses-mob.png)| ![contact-us-mob!](assets/images/screenshots/contact-us-mob.png)|
-
-  + Desktop
-![index-desk!](assets/images/screenshots/index-desk.png)
-![courses-desk!](assets/images/screenshots/courses-desk.png)
-![contact-us-desk!](assets/images/screenshots/contact-us-desk.png)
+ 
+![responsive!](/assets/images/screenshots/responsive.png)
 
 ## Navigation
   + Mobile
 
+![mob-nav!](/assets/images/wireframe/mob-nav.png)
+
+Just Nav Bar
+
+![mob-nav-1!](/assets/images/wireframe/mob-nav-1.png)
 
   + Desktop
+
+ ![desk-nav!](/assets/images/wireframe/desk-nav.png)
 
 ## Courses Page
 
