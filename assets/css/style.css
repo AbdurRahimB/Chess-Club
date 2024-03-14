@@ -271,6 +271,10 @@ textarea {
         background-color: #833e29;
         border-style: double;
     }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
 
 /* Media query: tablets and larger (768px and up) */
@@ -283,10 +287,7 @@ textarea {
         padding-left: 1rem;
     }
 
-    .nav-toggle-label {
-        display: none;
-    }
-
+    
     /* Main content */
     main {
         /* Push main content down to accommodate larger header */
@@ -317,6 +318,7 @@ textarea {
     /* Cover-text */
     #cover-text {
         width: 550px;
+        height: 180px;
     }
 
     .div-text {

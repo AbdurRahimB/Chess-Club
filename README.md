@@ -178,8 +178,8 @@ My lovely classmates on Code Institute, Tutors and My Mentor Mr. Alan Bushell.
 I have used different softwares to prepare this site. Here are the used softwares
   + Wireframe Tutorial [Balsamiq](https://www.youtube.com/watch?v=E5Z1QOly72E)
   + Adobe Photoshop
-  + [Online image resizer]()
-  + [Online image converter to .webp]()
+  + Windows Image Resizer
+  + [Online image converter to .webp](https://convertio.co/jpg-webp/)
 
 ## Adding README.md
   + Tutorial from [Youtube](https://www.youtube.com/watch?v=M8ra1n2oiTY)
