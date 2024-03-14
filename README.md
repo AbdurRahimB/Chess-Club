@@ -43,9 +43,15 @@ This wesite is intended to the Chess loving people who wants to learn how to pla
 
   + Desktop
 
-  ![index-desk!](assets/images/wireframe/index-desk.png) 
+  index
+
+ ![index.desk!](assets/images/wireframe/index.desk.png) 
+
+ Courses
 
   ![courses-desk1!](assets/images/wireframe/courses-desk1.png) 
+
+  Contact Us
 
   ![contact-us-desk1!](assets/images/wireframe/contact-us-desk1.png)
 
@@ -92,29 +98,63 @@ Just Nav Bar
 
 ## Testing
 
+I have tested manually which looked fine on all devices.
+
 ## DevTools
+
+With the crome devtool, I checked, Which looked all good.
 
 ## Bugs
   + Result
-
+I found a bug when the site finished. It was <br />
 
   + Fixing
 
+  When I was doing validation, I found a bug and used <br> and solved.
+
 ## Validation
 
+I have used HTML and Css validators for all three pages and stylesheet. There was no errors or warning.
+
 + HTML
+
+[HTML Validator through W3C Marup validation service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+Home Page
+
+![html-val!](/assets/images/screenshots/html-val.png)
+
+Courses Page
+
+![courses-val!](/assets/images/screenshots/courses-val.png)
+
+Contact Us Page
+
+![contact-val!](/assets/images/screenshots/contact-val.png)
+
 + CSS
+
+[W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+
+ + Stylesheet
+
+![css-val!](/assets/images/screenshots/css-val.png)
+
 + Accessibility with Lighthouse
 
-# Credits
-[Code Institute]()
+
+
+## Credits
+[Code Institute](https://learn.codeinstitute.net/)
 
 ## Technologies Used
+ + GitHub
+ + GitPod
+
 ## Languages Used
   + HTML5
   + CSS
 
-## Frameworks, Libraries and Programs Used
 #### Websites
 1. Responsive Screensostes[Website](https://ui.dev/amiresponsive)
 2. Website Ideas from [Love Running Project](https://abdurrahimb.github.io/Love-Running/)
@@ -130,7 +170,7 @@ Just Nav Bar
 #### Acknowledgements
 My lovely classmates on Code Institute, Tutors and My Mentor Mr. Alan Bushell. 
 
-#### Softwares
+### Softwares
 I have used different softwares to prepare this site. Here are the used softwares
   + Wireframe Tutorial [Balsamiq](https://www.youtube.com/watch?v=E5Z1QOly72E)
   + Adobe Photoshop
@@ -140,11 +180,9 @@ I have used different softwares to prepare this site. Here are the used software
 ## Adding README.md
   + Tutorial from [Youtube](https://www.youtube.com/watch?v=M8ra1n2oiTY)
 ## Deployment
-#### Steps
-#### Forking the GitHub Repository
+### Steps
+### Forking the GitHub Repository
 
 #### Keeping a Local Clone
 
 ## Conclusion
-image 
-![alt-name!](relative src)
