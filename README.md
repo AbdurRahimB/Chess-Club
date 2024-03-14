@@ -47,9 +47,12 @@ This wesite is intended to the Chess loving people who wants to learn how to pla
 
 ## Responsiveness
   + Mobile
-
+|![index-mob1!](assets/images/screenshots/index-mob1.png)| ![courses-mob!](assets/images/screenshots/courses-mob.png)| ![contact-us-mob!](assets/images/screenshots/contact-us-mob.png)|
 
   + Desktop
+![index-desk!](assets/images/screenshots/index-desk.png)
+![courses-desk!](assets/images/screenshots/courses-desk.png)
+![contact-us-desk!](assets/images/screenshots/contact-us-desk.png)
 
 ## Navigation
   + Mobile
