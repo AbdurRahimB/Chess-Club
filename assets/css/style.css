@@ -35,6 +35,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #000000;
+    margin: 20px;
 }
 
 h3 {
@@ -134,7 +135,7 @@ main {
     position: absolute;
     bottom: 100px;
     width: 50%;
-    min-height: 200px;
+    min-height: 220px;
     min-width: 292px;
     padding-top: 10px;
     padding-left: 10px;
@@ -259,6 +260,22 @@ textarea {
 
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
+
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width: 768px) {
+    #menu {
+        display: flex;
+    }
+
+    #menu>li {
+        padding-left: 1rem;
+    }
+
+    
+    /* Main content */
+
     nav {
         display: block;
         position: relative;
@@ -275,20 +292,7 @@ textarea {
     .nav-toggle-label {
         display: none;
     }
-}
 
-/* Media query: tablets and larger (768px and up) */
-@media screen and (min-width: 768px) {
-    #menu {
-        display: flex;
-    }
-
-    #menu>li {
-        padding-left: 1rem;
-    }
-
-    
-    /* Main content */
     main {
         /* Push main content down to accommodate larger header */
         margin-top: 48px;
@@ -301,7 +305,7 @@ textarea {
         padding-bottom: 10px;
         justify-content: center;
         top: 250px;
-        height: 280px;
+        height: 320px;
         left: 35px;
     }
 

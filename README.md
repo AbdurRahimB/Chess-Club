@@ -15,20 +15,17 @@
  + [Validation](#validation)
  + [HTML](#html)
  + [CSS](#css)
- + [Accessesibility](#testing)
- + [Credits](#bugs)
- + [Technologies Used](#fixing)
- + [Languages Used](#validation)
- + [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
- + [Websites](#websitesss)
- [Content](#footer-section)
- + [Media](#testing)
- + [Acknowledgement](#bugs)
- + [Softwares](#fixing)
- + [Deployment](#html)
- + [Steps](#css)
- + [Forking the GitHub Repository](#testing)
- + [Keeping a Local Clone](#bugs)
+ + [Accessibility](#accessibility)
+ + [Credits](#credits)
+ + [Technologies Used](#technologies-used)
+ + [Languages Used](#languages-used)
+ + [Websites](#websites)
+ + [Content](#content)
+ + [Media](#media)
+ + [Acknowledgements](#acknowledgements)
+ + [Softwares](#softwares)
+ + [Deployment](#deployment)
+ + [Steps](#steps)
  + [Conclusion](#conclusion)
  
 ## Purpose
@@ -159,7 +156,7 @@ Contact Us Page
   + HTML5
   + CSS
 
-#### Websites
+### Websites
 1. Responsive Screensostes[Website](https://ui.dev/amiresponsive)
 2. Website Ideas from [Love Running Project](https://abdurrahimb.github.io/Love-Running/)
 3. Icons from [Fontawesome](https://fontawesome.com/)
@@ -169,9 +166,9 @@ Contact Us Page
 7. Mark Down Table of Contents Tutorial [Youtube](https://www.youtube.com/watch?v=EKqhENATIKg)
 8. Adding images to .md tutorial [Youtube](https://www.youtube.com/watch?v=Ljj1wGFJqPY)
 
-#### Content
-#### Media
-#### Acknowledgements
+### Content
+### Media
+### Acknowledgements
 My lovely classmates on Code Institute, Tutors and My Mentor Mr. Alan Bushell. 
 
 ### Softwares
@@ -184,9 +181,6 @@ I have used different softwares to prepare this site. Here are the used software
 ## Adding README.md
   + Tutorial from [Youtube](https://www.youtube.com/watch?v=M8ra1n2oiTY)
 ## Deployment
-### Steps
-### Forking the GitHub Repository
-
-#### Keeping a Local Clone
+## Steps
 
 ## Conclusion
