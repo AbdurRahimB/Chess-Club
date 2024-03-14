@@ -37,6 +37,8 @@ Wellcome to [Little Chess Club](https://abdurrahimb.github.io/chess-club/) Websi
 This wesite is intended to the Chess loving people who wants to learn how to play chess. If they want to learn playing chess or even they want their children to learn and grow interest. This website offers information about benifits of playing chess. They will find information about the positive impact of playing chess by the recreational players or even pupils of ADHD and Dementia. The website offers three different courses on a different page called "Courses" and interested people who wants to sign up can contact us in a different page called Contact Us. This is a fully responsive website. People can access the site from their mobile phones all the way upto any size over 1200px.
 
 ## Wireframe
+I have used balsamiq to produce wireframes. Here i share the screenshots of related work both by mobile and desktop.
+
   + Mobile 
 
   ![index-mob!](assets/images/wireframe/index-mob.png)  | ![courses!](assets/images/wireframe/courses.png)  | ![contact-us!](assets/images/wireframe/contact-us.png)  |
@@ -98,14 +100,16 @@ Just Nav Bar
 
 ## Testing
 
-I have tested manually which looked fine on all devices.
+I have tested the site manually which looked fine on all devices. I checked the form filled out and send on from both sizes. It successfully submitted to the server. Fields needs to have inputs, email field needs a valid email address, set minlength in the fileds. 
 
 ## DevTools
 
-With the crome devtool, I checked, Which looked all good.
+With the chrome devtool, I checked, Which looked all good.
 
 ## Bugs
+
   + Result
+  
 I found a bug when the site finished. It was <br />
 
   + Fixing
