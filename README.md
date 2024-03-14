@@ -39,7 +39,7 @@ This wesite is intended to the Chess loving people who wants to learn how to pla
 ## Wireframe
   + Mobile 
 
-|![index-mob!](assets/images/wireframe/index-mob.png)| ![courses!](assets/images/wireframe/courses.png)| ![contact-us!](assets/images/wireframe/contact-us.png)|
+|  ![index-mob!](assets/images/wireframe/index-mob.png)  | ![courses!](assets/images/wireframe/courses.png)  | ![contact-us!](assets/images/wireframe/contact-us.png)  |
 
 
 
@@ -64,9 +64,27 @@ Just Nav Bar
 
 ## Courses Page
 
+ + Mobile
+
+![courses-mob!](/assets/images/screenshots/courses-mob.png)
+
+ + Desktop
+
+![courses-desk!](/assets/images/screenshots/courses-desk.png)
+
 ## Contact Us Page
 
+ + Mobile
+
+![contact-us-mob!](/assets/images/screenshots/contact-us-mob.png)
+
+ + Desktop
+
+![contact-us-desk!](/assets/images/screenshots/contact-us-desk.png)
+
 ## Footer Section
+
+ ![footer!](/assets/images/screenshots/footer.png)
 
 ## Testing
 
