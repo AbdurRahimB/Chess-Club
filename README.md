@@ -39,11 +39,15 @@ This wesite is intended to the Chess loving people who wants to learn how to pla
 ## Wireframe
   + Mobile 
 
-|  ![index-mob!](assets/images/wireframe/index-mob.png)  | ![courses!](assets/images/wireframe/courses.png)  | ![contact-us!](assets/images/wireframe/contact-us.png)  |
-
-
+  ![index-mob!](assets/images/wireframe/index-mob.png)  | ![courses!](assets/images/wireframe/courses.png)  | ![contact-us!](assets/images/wireframe/contact-us.png)  |
 
   + Desktop
+
+  ![index-desk!](assets/images/wireframe/index-desk.png) 
+
+  ![courses-desk1!](assets/images/wireframe/courses-desk1.png) 
+
+  ![contact-us-desk1!](assets/images/wireframe/contact-us-desk1.png)
 
 ## Responsiveness
  
