@@ -101,7 +101,16 @@ I have tested the site manually which looked fine on all devices. I checked the 
 
 ## DevTools
 
-With the chrome devtool, I checked, Which looked all good.
+With the chrome devtool, I checked, Which looked all good. It has good performance on lighthouse scoring system.
+All the three pages screenshots are here
+  + This is score of the Home Page, it is satisfactory to me as a developper.
+![index-lh!](/assets/images/screenshots/index-lh.png)
+
+  + This is the score of the courses page, it is satisfactory to me as a developper.
+![courses-lh!](/assets/images/screenshots/courses-lh.png)
+
+  + This is the score of the Contact Us Page, it is satisfactory to me as a developper.
+  ![contact-lh!](/assets/images/screenshots/contact-lh.png)
 
 ## Bugs
 
