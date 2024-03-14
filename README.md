@@ -39,7 +39,7 @@ This wesite is intended to the Chess loving people who wants to learn how to pla
 ## Wireframe
   + Mobile 
 
-|![index-Mob!](assets/images/wireframe/index-Mob.png)|![courses!](assets/images/wireframe/Courses.png)|![contact-us!](assets/images/wireframe/contact-us.png)|
+|![index-mob!](assets/images/wireframe/index-mob.png)| ![courses!](assets/images/wireframe/courses.png)| ![contact-us!](assets/images/wireframe/contact-us.png)|
 
 
 
