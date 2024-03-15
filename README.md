@@ -23,7 +23,6 @@
    - [Content](#content)
    -  [Softwares](#softwares)
  + [Deployment](#deployment)
-   - [Steps](#steps)
  + [Conclusion](#conclusion)
  
 ## Purpose
@@ -36,7 +35,8 @@ I have used balsamiq to produce wireframes. Here i share the screenshots of rela
 Here are the screenshots how I drew my project for mobile device on banlamiq wireframe.
 
   + Mobile 
-On mobile device 
+
+On mobile device all three pages looks exactly how it is designed for.
 
 |Index|Courses|Contact Us|
 |---|---|--|
@@ -46,19 +46,20 @@ On mobile device
 
   Here are the screenshots how I drew my project for larger device on banlamiq wireframe.
 
-  Index Page
+  Index Page or home page should look like this.
 
  ![index.desk!](assets/images/wireframe/index.desk.png) 
 
- Courses Page
+ Courses Page should look like this.
 
   ![courses-desk1!](assets/images/wireframe/courses-desk1.png) 
 
-  Contact Us Page
+  Contact Us Page should look like this.
 
   ![contact-us-desk1!](assets/images/wireframe/contact-us-desk1.png)
 
 ## Responsiveness
+
  Here are the screenshots how it look like on different devices when the project finished.
 
 ![responsive!](/assets/images/screenshots/responsive.png)
@@ -77,33 +78,40 @@ When not clicked on menu bar it looks like this on mobile devices.
 
   + Desktop
 
-On the desktop or larger devices menubar shows like this as extended.
+On the desktop or larger devices menu bar shows like this as extended header.
 
  ![desk-nav!](/assets/images/wireframe/desk-nav.png)
 
 ## Courses Page
 
  + Mobile
-The course page looks like the folloing on the mobile devices.
+
+The course page looks like the folloing on the mobile devices. All three lesson packages should show in a column one after another making it easy for the user to read and decide which course is suitable to them.
 
 ![courses-mob!](/assets/images/screenshots/courses-mob.png)
 
  + Desktop
+
 The course page looks like the folloing on the Desktop or larger devices.
 ![courses-desk!](/assets/images/screenshots/courses-desk.png)
 
 ## Contact Us Page
 
  + Mobile
+
 The Contact Us page looks like the folloing on the mobile devices.
 ![contact-us-mob!](/assets/images/screenshots/contact-us-mob.png)
 
  + Desktop
+
 The Contact Us page looks like the folloing on the Desktop or larger devices.
+
 ![contact-us-desk!](/assets/images/screenshots/contact-us-desk.png)
 
 ## Footer Section
+
 The footer section looks like the following across the different size devices.
+
  ![footer!](/assets/images/screenshots/footer.png)
 
 ## Testing
@@ -130,22 +138,27 @@ I have tested the site manually which looked fine on all devices. I checked the 
 With the chrome devtool, I checked, Which looked all good. It has good performance on lighthouse scoring system.
 All the three pages screenshots are here
   + This is score of the Home Page, it is satisfactory to me as a developper.
+
 ![index-lh!](/assets/images/screenshots/index-lh.png)
 
   + This is the score of the courses page, it is satisfactory to me as a developper.
+
 ![courses-lh!](/assets/images/screenshots/courses-lh.png)
 
   + This is the score of the Contact Us Page, it is satisfactory to me as a developper.
+
   ![contact-lh!](/assets/images/screenshots/contact-lh.png)
 
 ## Bugs
 
-  + Result
+  ### Result
+
   I found a bug when the site finished. Results and solutions are as follow:
+
 1. On the mobile device header covered the heading of the courses page.
 2. There was no heading for section footer.
 
-  + Fixing
+  ### Fixing
 
   1. I added margin to the header and resolved the issue.
   2. I added a hidden heading style upon adding the heading.
@@ -164,13 +177,13 @@ This is the result of the HTML validation for index file.
 
 ![html-val!](/assets/images/screenshots/html-val.png)
 
-Courses Page
+ + Courses Page
 
 This is the result of the HTML validation for Courses page test.
 
 ![courses-val!](/assets/images/screenshots/courses-val.png)
 
-Contact Us Page
+  + Contact Us Page
 
 This is the result of the HTML validation for Contact Us Page.
 
@@ -192,15 +205,20 @@ I gained a lot of knowledge from doing the Full Stack Software Development progr
 
 
 ## Technologies Used
+
  + GitHub
  + GitPod
  + LMS
 
 ## Languages Used
+
   + HTML5
   + CSS
 
 ### Websites
+
+The websites that has been providing knowledge and materials to build this website are following:
+
 1. Responsive Screensostes [Website](https://ui.dev/amiresponsive)
 2. Website Ideas from [Love Running Project](https://abdurrahimb.github.io/Love-Running/)
 3. Icons from [Fontawesome](https://fontawesome.com/)
@@ -211,13 +229,16 @@ I gained a lot of knowledge from doing the Full Stack Software Development progr
 8. Adding images to .md tutorial [Youtube](https://www.youtube.com/watch?v=Ljj1wGFJqPY)
 
 ## Content
+
 1. This website contains some information inspired from the [Website](https://www.brainscape.com/academy/does-chess-make-you-smarter/)
 2. Some information inspired me from the [Website](https://www.ymcapkc.org/blog/6-reasons-learn-chess-how-playing-can-boost-your-brainpower)
 
 ## Acknowledgements
+
 My lovely classmates on Code Institute, Tutors and My Mentor Mr. Alan Bushell. 
 
 ## Softwares
+
 I have used different softwares to prepare this site. Here are the used softwares
   + Wireframe Tutorial [Balsamiq](https://www.youtube.com/watch?v=E5Z1QOly72E)
   + Adobe Photoshop
@@ -225,6 +246,7 @@ I have used different softwares to prepare this site. Here are the used software
   + [Online image converter to .webp](https://convertio.co/jpg-webp/)
 
 ## Deployment
+
 Here is the step by step process to deploy a depository to GitHub.
  1. First we need to go to related repository [My Repo](https://github.com/AbdurRahimB/chess-club)
  2. From the top menu bar click on Settings
